@@ -1,0 +1,32 @@
+.picture1 {
+    background: rgb(0, 47, 167);
+    display: inline-block;
+    height: 660px;
+    width: 100%;
+    margin-bottom: 48px;
+    
+}
+
+.picture1>img{
+    opacity: 1;
+}
+
+.picture1::after{
+    content:"Welcome to \a  BABOUCHE";
+    position: absolute;
+    top:300px;
+    white-space: pre;
+    right:28%;
+    transform: 
+    translateX(50%);
+    font-weight: bold;
+    font-size: 100px;
+    font-family: Roboto;
+    color:rgb(255, 255, 255)
+}
+.img0{
+    height: 660px;
+    width: 70%;
+    margin-bottom: 48px;
+    
+}

@@ -122,3 +122,15 @@
     font-family: Dancing Script;
     font-weight: 700;
 } 
+ .popup-pic{
+    height: 150px;
+   }
+   .lyrim{
+    padding-top: 80px;
+    margin-bottom: 14;
+    font-size: 52px;
+    line-height: 1.35em;
+    font-family: Teko;
+    font-weight: 90;
+    text-align: center;
+   }
